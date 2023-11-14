@@ -1,0 +1,177 @@
+body{
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    display: flex;
+    
+}
+
+
+.bloco{
+    width: 1200px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.bloco2{
+    width: 1200px;
+    height: 40px;
+    display: flex;
+}
+
+.caixa1{
+    width: 426px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.caixa2{
+    width: 426px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.caixa3{
+    width: 426px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.space{
+    width: 1200px;
+    height: 200px;
+    display: flex;
+}
+
+
+img{
+    width: 1200px;
+    height: 200px;
+}
+
+.cubo{
+    width: 1200px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.text{
+    width: 1200px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.space2{
+    width: 1200px;
+    height: 200px;
+    display: flex;
+}
+
+.cubo2{
+    width: 1200px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.text2{
+    width: 1200px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.parede{
+    width: 1200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nave{
+    width: 200px;
+    height: 150px;
+}
+
+.parede2{
+    width: 1200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.linha{
+    width: 1200px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.parede3{
+    background-color: aquamarine;
+    width: 1200px;
+    height: 190px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.name{
+    background-color: aquamarine;
+    width: 1200px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.empresa{
+    width: 200px;
+    height: 150px;
+}
+
+.final{
+    width: 1200px;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+
+.email{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.number{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
